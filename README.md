@@ -2,7 +2,7 @@
 
 MovieLand is a simple and interactive web application built with **React** that allows users to search for movies using the **OMDb API**. It displays movie information such as title, year, type, and poster in a user-friendly interface.
 
-Visit website here:[https://react-movie.app/](https://react-movie-app-kudos.vercel.app/)
+Visit website here:[https://react-movie.app](https://react-movie-app-kudos.vercel.app/)
 
 ---
 

@@ -17,7 +17,7 @@ Visit website here:[https://react-movie.app/](https://react-movie-app-kudos.verc
 
 ## Demo
 
-![MovieLand Demo](./src/Demo.png)
+![MovieLand Demo](./src/demo.png)
 
 ---
 
